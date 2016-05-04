@@ -1,0 +1,7 @@
+@import "normalize.css";
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:300);
+
+body {
+  font: normal 3vmax/1.4 Source Code Pro, Helvetica, Arial, sans-serif;
+  padding: 1em;
+}
