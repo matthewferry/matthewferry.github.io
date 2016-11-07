@@ -20,7 +20,6 @@
         }
       }
     },
-    "metalsmith-gzip": {},
     "metalsmith-express": {
       "liveReload": true,
       "liveReloadPort": 35729

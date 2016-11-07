@@ -1,7 +1,8 @@
 @import "normalize.css";
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:300);
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 body {
-  font: normal 3vmax/1.4 Source Code Pro, Helvetica, Arial, sans-serif;
+  font: normal 6vmax/1.4 'Lora', serif;
   padding: 1em;
+  color: #110d2a;
 }
