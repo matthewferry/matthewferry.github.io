@@ -1,4 +1,5 @@
-Personal site for matthew-ferry.com
+Personal site for matthew-ferry.com using [Metalsmith](http://www.metalsmith.io)
+for static site generation.
 
 ### Install dependencies
 ```shell
@@ -10,5 +11,6 @@ Build a static directory, starts a server and watch for development.
 ```shell
 $ npm start
 ```
-When ready to publish, checkout the github pages branch, commit the build and
-push.
+
+### Publish
+When ready to publish, stop the server, stage, commit, and push.
