@@ -16,7 +16,6 @@
     "metalsmith-postcss": {
       "plugins": {
         "postcss-import": {},
-        "postcss-cssnext": {},
         "cssnano": {
           "autoprefixer": false
         }

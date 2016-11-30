@@ -12,7 +12,6 @@
     "metalsmith-watch": "^1.0.1",
     "normalize.css": "^4.1.1",
     "nunjucks": "^2.4.2",
-    "postcss-cssnext": "^2.5.2",
     "postcss-import": "^8.1.0"
   },
   "scripts": {
