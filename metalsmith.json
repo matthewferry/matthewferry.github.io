@@ -1,7 +1,8 @@
 {
   "metadata": {
     "site": "Matthew Ferry",
-    "description": "I make things."
+    "description": "I make things.",
+    "keywords": "matthew, matt, ferry, matthew ferry, change.org, change, design, music, sound, sound design, composer, product, product design, san francisco, sf, bay area, web, web design, ux, ux design, apps, application, interaction, interaction design, developer, html, css, postcss"
   },
   "destination": "./",
   "clean": false,
