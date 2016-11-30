@@ -6,3 +6,12 @@ body {
   padding: 1em;
   color: #110d2a;
 }
+
+a {
+  color: #0000EE;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #0000EE;
+}
