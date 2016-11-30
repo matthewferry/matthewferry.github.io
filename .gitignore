@@ -6,3 +6,4 @@ build
 
 # Debugging
 .log
+.DS_Store
