@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 
 body {
-  font: normal 4vmin/1.4 'Lora', serif;
-  padding: 2.441em;
+  font: normal 5vmin/1.4 'Lora', serif;
+  padding: 1.953125em;
   color: #110d2a;
 }
 
 h1 {
-  font-size: 2.441em;
+  font-size: 1.953em;
   font-weight: normal;
   margin: 0;
 }
@@ -50,9 +50,9 @@ a:focus::before {
 }
 
 em {
-  color: #8F8EA1;
+  color: #AAA9BD;
   font-style: normal;
-  padding-left: .512em;
+  display: block;
 }
 
 ul {

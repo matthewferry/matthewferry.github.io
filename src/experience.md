@@ -1,16 +1,9 @@
 # Experience
 
-- Design Director [@Change](https://twitter.com/Change)
-  _(2016-now)_
-- Lead Product Designer [@Change](https://twitter.com/Change)
-  _(2014-2016)_
-- Product Designer [@Medallia](https://twitter.com/Medallia)
-  _(2012-2014)_
-- Product Designer [@tribr](https://twitter.com/tribrapp)
-  _(2012)_
-- Designer and Front-end Developer [@CO+LAB](https://twitter.com/teamcolab)
-  _(2011-2012)_
-- Hustlin’ for some BS [@Hofstra](https://twitter.com/HofstraU)
-  _(2007)_
-- Something else in a previous life
-  _(2003-2011)_
+- Design Director [@Change](https://twitter.com/Change) _2016-now_
+- Lead Product Designer [@Change](https://twitter.com/Change) _2014-2016_
+- Product Designer [@Medallia](https://twitter.com/Medallia) _2012-2014_
+- Product Designer [@tribr](https://twitter.com/tribrapp) _2012_
+- Designer and Front-end Engineer [@CO+LAB](https://twitter.com/teamcolab) _2011-2012_
+- Hustlin’ for some BS [@Hofstra](https://twitter.com/HofstraU) _2007_
+- A previous life… _2003-2011_
