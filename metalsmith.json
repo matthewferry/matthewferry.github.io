@@ -7,11 +7,13 @@
   "clean": false,
   "plugins": {
     "metalsmith-markdown-remarkable": {},
-    "metalsmith-permalinks": {},
+    "metalsmith-permalinks": {
+      "relative": false
+    },
     "metalsmith-layouts": {
       "engine": "nunjucks",
       "default": "default.html",
-      "pattern": ["*.md", "*.html"]
+      "pattern": ["**/*.md", "**/*.html"]
     },
     "metalsmith-postcss": {
       "plugins": {

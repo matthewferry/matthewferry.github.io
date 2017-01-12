@@ -2,16 +2,65 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 
 body {
-  font: normal 6vmax/1.4 'Lora', serif;
-  padding: 1em;
+  font: normal 4vmin/1.4 'Lora', serif;
+  padding: 2.441em;
   color: #110d2a;
 }
 
-a {
-  color: #0000EE;
+h1 {
+  font-size: 2.441em;
+  font-weight: normal;
+  margin: 0;
 }
 
-a:hover {
-  color: #fff;
+a,
+a:visited {
+  color: #0000EE;
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 -0.134217728em;
+  padding: 0 0.134217728em;
+  position: relative;
+}
+
+a:hover,
+a:active,
+a:focus {
   background-color: #0000EE;
+  color: #fff;
+  outline: none;
+}
+
+a::before {
+  background: #0000EE;
+  content: "";
+  display: block;
+  height: 0.134217728em;
+  margin: 0 -0.134217728em;
+  opacity: .5;
+  position: absolute;
+  top: 1em;
+  width: 100%;
+}
+
+a:hover::before,
+a:active::before,
+a:focus::before {
+  background: none;
+}
+
+em {
+  color: #8F8EA1;
+  font-style: normal;
+  padding-left: .512em;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 1em 0;
 }
