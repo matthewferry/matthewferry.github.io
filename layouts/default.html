@@ -12,14 +12,6 @@
 
 </head>
 <body>
-  <header role="banner">
-    {% block header %}
-      {% if title %}
-        <h1>{{ title }}</h1>
-      {% endif %}
-    {% endblock %}
-  </header>
-
   <article role="main">
     {% block content %}
       {{ contents | safe }}
