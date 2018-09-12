@@ -1,6 +1,7 @@
 # Experience
 
-- Design Director [@Change](https://twitter.com/Change) _2016-_
+- Design Director [@Hustle](https://twitter.com/Hustle) _2017-now
+- Design Director [@Change](https://twitter.com/Change) _2016-2017_
 - Lead Product Designer [@Change](https://twitter.com/Change) _2014-2016_
 - Product Designer [@Medallia](https://twitter.com/Medallia) _2012-2014_
 - Product Designer [@tribr](https://twitter.com/tribrapp) _2012_
