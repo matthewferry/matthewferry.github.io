@@ -16,6 +16,5 @@
   },
   "scripts": {
     "start": "node_modules/.bin/metalsmith",
-    "deploy": "gh-pages -d dist"
   }
 }
