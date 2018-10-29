@@ -13,9 +13,9 @@ $ npm start
 ```
 
 ### Write some markdown
-Add or modify markdown files in `src/` for pages you want to create. Files and
-directories are honored in the final route, e.g. `src/projects/index.md` will
-become `/projects/index.html`.
+Add or modify markdown files in `src/` for pages you want to create. File names
+and directors become the route output, e.g. `src/foo.md` will
+become `/foo/index.html` and `src/foo/bar.md` will become `/foo/bar/index.html`.
 
-### Publish
-When ready to publish, stop the server, stage, commit, and push.
+### Deploy
+When you're ready to deploy your changes, run the deploy script, `npm run deploy`.

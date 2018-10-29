@@ -4,3 +4,6 @@ node_modules
 # Debugging
 .log
 .DS_Store
+
+# Build directory
+dist
