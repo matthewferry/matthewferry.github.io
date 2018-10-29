@@ -3,7 +3,6 @@
   "private": true,
   "devDependencies": {
     "cssnano": "^3.5.2",
-    "gh-pages": "^2.0.1",
     "metalsmith": "^2.1.0",
     "metalsmith-express": "^0.1.0",
     "metalsmith-layouts": "^1.6.4",

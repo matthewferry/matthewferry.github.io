@@ -18,4 +18,4 @@ and directors become the route output, e.g. `src/foo.md` will
 become `/foo/index.html` and `src/foo/bar.md` will become `/foo/bar/index.html`.
 
 ### Deploy
-When you're ready to deploy your changes, run the deploy script, `npm run deploy`.
+When you're ready to deploy your changes: stage, commit, push.

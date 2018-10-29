@@ -3,8 +3,8 @@
     "site": "Matthew Ferry",
     "description": "I make things."
   },
-  "destination": "dist",
-  "clean": true,
+  "destination": "./",
+  "clean": false,
   "plugins": {
     "metalsmith-markdown-remarkable": {},
     "metalsmith-permalinks": {
