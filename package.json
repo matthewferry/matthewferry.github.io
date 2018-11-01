@@ -15,6 +15,6 @@
     "postcss-import": "^8.1.0"
   },
   "scripts": {
-    "start": "node_modules/.bin/metalsmith",
+    "start": "node_modules/.bin/metalsmith"
   }
 }
