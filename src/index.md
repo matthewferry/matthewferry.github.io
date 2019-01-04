@@ -1,1 +1,1 @@
-# Matthew Ferry used to make a lot of [noise](https://matthewferry.bandcamp.com), but these days you'll find him leading design [@Hustle](https://twitter.com/Hustle). Previously, [@Change](https://twitter.com/Change) and [@Medallia](https://twitter.com/Medallia).
+# Matthew Ferry is currently operationalizing Design at [@GitHub](https://twitter.com/github). Previously, [@Hustle](https://twitter.com/Hustle), [@Change](https://twitter.com/Change), and [@Medallia](https://twitter.com/Medallia). Once upon a time, he made a lot of [noise](https://matthewferry.bandcamp.com). 

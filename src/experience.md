@@ -1,6 +1,7 @@
 # Experience
 
-- Design Director [@Hustle](https://twitter.com/Hustle) _2017-now_
+- Design Operations [@GitHub](https://twitter.com/github) _2018-now_
+- Design Director [@Hustle](https://twitter.com/Hustle) _2017-2018_
 - Design Director [@Change](https://twitter.com/Change) _2016-2017_
 - Lead Product Designer [@Change](https://twitter.com/Change) _2014-2016_
 - Product Designer [@Medallia](https://twitter.com/Medallia) _2012-2014_
