@@ -1,9 +1,11 @@
 @import "normalize.css";
 
 body {
+  align-items: center;
+  color: #110d2a;
+  display: flex;
   font: normal 4.5vmin/1.4 system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;;
   padding: 1.953125em;
-  color: #110d2a;
 }
 
 h1 {
@@ -16,10 +18,10 @@ a,
 a:visited {
   color: #0000EE;
   display: inline-block;
-  text-decoration: none;
   margin: 0 -0.134217728em;
   padding: 0 0.134217728em;
   position: relative;
+  text-decoration: none;
 }
 
 a:hover,
