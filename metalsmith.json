@@ -6,7 +6,9 @@
   "destination": "./",
   "clean": false,
   "plugins": {
-    "metalsmith-markdown-remarkable": {},
+    "metalsmith-markdown": {
+      "headerIds": false
+    },
     "metalsmith-permalinks": {
       "relative": false
     },
