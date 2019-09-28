@@ -16,7 +16,7 @@ h1 {
 
 a,
 a:visited {
-  color: #0000EE;
+  color: #0000ee;
   display: inline-block;
   margin: 0 -0.134217728em;
   padding: 0 0.134217728em;
@@ -27,13 +27,13 @@ a:visited {
 a:hover,
 a:active,
 a:focus {
-  background-color: #0000EE;
+  background-color: #0000ee;
   color: #fff;
   outline: none;
 }
 
 a::before {
-  background: #0000EE;
+  background: #0000ee;
   content: "";
   display: block;
   height: 0.134217728em;
@@ -64,4 +64,29 @@ ul {
 
 li {
   margin: 1em 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background: #110d2a;
+  }
+
+  a,
+  a:visited {
+    color: #6860ff;
+  }
+
+  body,
+  a:hover,
+  a:active,
+  a:focus {
+    color: #fff;
+  }
+
+  a:hover,
+  a:active,
+  a:focus,
+  a::before {
+    background-color: #6860ff;
+  }
 }
