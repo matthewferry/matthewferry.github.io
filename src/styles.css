@@ -4,14 +4,12 @@ body {
   align-items: center;
   color: #110d2a;
   display: flex;
-  font: normal 4.5vmin/1.4 system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;;
+  font: normal 4vmin/1.3 system-ui, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;;
   padding: 1.953125em;
 }
 
 h1 {
-  font-size: 1.953em;
-  font-weight: normal;
-  margin: 0;
+  font-weight: 600;
 }
 
 a,
