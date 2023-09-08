@@ -1,1 +1,0 @@
-# Matthew Ferry is a designer [@Gatheround](https://twitter.com/comegatheround). Previously, [@GitHub](https://twitter.com/github), [@Hustle](https://twitter.com/Hustle), [@Change](https://twitter.com/Change), and [@Medallia](https://twitter.com/Medallia). Once upon a time, he made a lot of [noise](https://matthewferry.bandcamp.com).
