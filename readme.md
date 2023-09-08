@@ -1,21 +1,13 @@
-Personal site for matthew-ferry.com using [Metalsmith](http://www.metalsmith.io)
-for static site generation.
+Personal site for matthew-ferry.com
 
 ### Install dependencies
-```shell
-$ npm install
-```
+None at the moment.
 
 ### Build site
-Build a static directory, starts a server and watch for development.
-```shell
-$ npm start
-```
+No need.
 
-### Write some markdown
-Add or modify markdown files in `src/` for pages you want to create. File names
-and directors become the route output, e.g. `src/foo.md` will
-become `/foo/index.html` and `src/foo/bar.md` will become `/foo/bar/index.html`.
+### Make some changes
+Edit stuff.
 
 ### Deploy
-When you're ready to deploy your changes: stage, commit, push.
+Stage, commit, push.
