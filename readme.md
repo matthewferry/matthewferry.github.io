@@ -1,4 +1,4 @@
-Personal site for matthew-ferry.com
+Personal site for matthew.wtf
 
 ### Install dependencies
 None at the moment.
